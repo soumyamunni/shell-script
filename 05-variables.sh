@@ -2,7 +2,7 @@
 
 echo "Please enter username::"
 
-read USERNAME #Here USERNAME is variable 
+read -s USERNAME #Here USERNAME is variable 
 
 echo "please enter password::"
 
